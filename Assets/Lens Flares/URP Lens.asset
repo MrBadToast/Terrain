@@ -18,18 +18,18 @@ MonoBehaviour:
     positionOffset: {x: 0, y: 0}
     angularOffset: 0
     translationScale: {x: 1, y: 1}
-    m_LocalIntensity: 20
+    m_LocalIntensity: 30
     lensFlareTexture: {fileID: 2800000, guid: 88c15d1add0444d4eaa4b25b14ccc609, type: 3}
-    uniformScale: 1
+    uniformScale: 2
     sizeXY: {x: 0.5, y: 0.5}
     allowMultipleElement: 0
     m_Count: 5
     preserveAspectRatio: 0
     rotation: 0
-    tint: {r: 1, g: 0.71225435, b: 0, a: 1}
+    tint: {r: 1, g: 0.8417388, b: 0.44716978, a: 1}
     blendMode: 1
     autoRotate: 0
-    flareType: 0
+    flareType: 1
     modulateByLightColor: 0
     isFoldOpened: 0
     distribution: 1
@@ -175,23 +175,23 @@ MonoBehaviour:
       m_RotationOrder: 4
   - visible: 1
     position: 0
-    positionOffset: {x: -0.15, y: -0.36}
+    positionOffset: {x: -0.4, y: -0.4}
     angularOffset: 0
     translationScale: {x: 1, y: 1}
-    m_LocalIntensity: 0.1
+    m_LocalIntensity: 0.35
     lensFlareTexture: {fileID: 2800000, guid: aecd4400dfe83904d9d838ade462f3ca, type: 3}
     uniformScale: 13.12
-    sizeXY: {x: 1, y: 1}
+    sizeXY: {x: 0.7, y: 0.7}
     allowMultipleElement: 0
     m_Count: 5
     preserveAspectRatio: 0
     rotation: -6.63
-    tint: {r: 1, g: 1, b: 1, a: 0.5254902}
+    tint: {r: 1, g: 1, b: 1, a: 0.70980394}
     blendMode: 1
     autoRotate: 1
     flareType: 0
     modulateByLightColor: 1
-    isFoldOpened: 1
+    isFoldOpened: 0
     distribution: 0
     lengthSpread: 1
     positionCurve:
@@ -338,7 +338,7 @@ MonoBehaviour:
     positionOffset: {x: 0, y: 0}
     angularOffset: 0
     translationScale: {x: 1, y: 1}
-    m_LocalIntensity: 0.5
+    m_LocalIntensity: 1
     lensFlareTexture: {fileID: 2800000, guid: a857b9d000cd987408abf94bf0bab8aa, type: 3}
     uniformScale: 18
     sizeXY: {x: 1, y: 1}
@@ -498,7 +498,7 @@ MonoBehaviour:
     positionOffset: {x: 0, y: 0}
     angularOffset: 0
     translationScale: {x: 1.32, y: 0.64}
-    m_LocalIntensity: 0.05
+    m_LocalIntensity: 0.1
     lensFlareTexture: {fileID: 2800000, guid: e598e516b8794d142be4865032accdd2, type: 3}
     uniformScale: 9.86
     sizeXY: {x: 1, y: 1}
@@ -511,7 +511,7 @@ MonoBehaviour:
     autoRotate: 0
     flareType: 0
     modulateByLightColor: 1
-    isFoldOpened: 1
+    isFoldOpened: 0
     distribution: 1
     lengthSpread: 2.61
     positionCurve:
@@ -666,7 +666,7 @@ MonoBehaviour:
     m_Count: 5
     preserveAspectRatio: 0
     rotation: 0
-    tint: {r: 0.8876961, g: 0.107547104, b: 1, a: 0.47058824}
+    tint: {r: 0.5668798, g: 0.10588235, b: 1, a: 0.47058824}
     blendMode: 1
     autoRotate: 0
     flareType: 0
